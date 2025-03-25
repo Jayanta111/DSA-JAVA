@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternNo3",
+            "request": "launch",
+            "mainClass": "PatternNo3",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "PatternNo2",
+            "request": "launch",
+            "mainClass": "PatternNo2",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "Palindrome",
             "request": "launch",
             "mainClass": "Palindrome",
