@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Recursion.HelloWorld",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "PatternNo6",
             "request": "launch",
             "mainClass": "PatternNo6",
