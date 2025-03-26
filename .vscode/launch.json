@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternNo5",
+            "request": "launch",
+            "mainClass": "PatternNo5",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "PatternNo4",
+            "request": "launch",
+            "mainClass": "PatternNo4",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "PatternNo3",
             "request": "launch",
             "mainClass": "PatternNo3",
