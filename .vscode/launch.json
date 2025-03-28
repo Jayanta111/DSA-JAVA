@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findingSum",
+            "request": "launch",
+            "mainClass": "findingSum",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "BS",
             "request": "launch",
             "mainClass": "BS",
