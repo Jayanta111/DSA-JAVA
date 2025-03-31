@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fiboFormula",
+            "request": "launch",
+            "mainClass": "fiboFormula",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "findingSum",
             "request": "launch",
             "mainClass": "findingSum",
