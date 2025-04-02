@@ -24,7 +24,7 @@ public class List {
 
         // Print the elements in the list
         System.out.println(list);
-        System.out.println(list.contains(9000));
+        System.out.println(list.contains(900));
 
 
     }

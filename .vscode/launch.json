@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "containsDuplicate",
+            "request": "launch",
+            "mainClass": "Hash.containsDuplicate",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "fiboFormula",
             "request": "launch",
             "mainClass": "fiboFormula",

@@ -16,7 +16,6 @@ public class TwoDArray {
             }
         }
 
-        // Optionally, print the 2D array to see the entered values
         System.out.println("The 2D array is:");
         for(int row = 0; row < arr.length; row++) {
             for(int col = 0; col < arr[row].length; col++) {

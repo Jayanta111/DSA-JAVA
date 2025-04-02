@@ -1,7 +1,5 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-import static java.util.Collections.swap;
 
 public class CycleSort {
     public static void main(String[] args){
