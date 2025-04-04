@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "Bitwise.first",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "LongestSubstring",
             "request": "launch",
             "mainClass": "Hash.LongestSubstring",
