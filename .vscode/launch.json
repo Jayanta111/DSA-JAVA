@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findnth",
+            "request": "launch",
+            "mainClass": "Bitwise.findnth",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "findbit",
+            "request": "launch",
+            "mainClass": "Bitwise.findbit",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "first",
             "request": "launch",
             "mainClass": "Bitwise.first",
