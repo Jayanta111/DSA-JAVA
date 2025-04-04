@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Bitwise.Power",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "powerOftwo",
             "request": "launch",
             "mainClass": "Bitwise.powerOftwo",
