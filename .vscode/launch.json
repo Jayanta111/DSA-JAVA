@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetCode832",
+            "request": "launch",
+            "mainClass": "Bitwise.LeetCode832",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "XOR",
             "request": "launch",
             "mainClass": "Bitwise.XOR",
