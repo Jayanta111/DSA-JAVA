@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "XOR",
+            "request": "launch",
+            "mainClass": "Bitwise.XOR",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "BinaryRepre",
             "request": "launch",
             "mainClass": "Bitwise.BinaryRepre",
