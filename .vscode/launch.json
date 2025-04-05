@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Setbit",
+            "request": "launch",
+            "mainClass": "Bitwise.Setbit",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "Power",
             "request": "launch",
             "mainClass": "Bitwise.Power",
