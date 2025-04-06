@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SqureRoot",
+            "request": "launch",
+            "mainClass": "DSA_Maths.SqureRoot",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "Seive",
+            "request": "launch",
+            "mainClass": "DSA_Maths.Seive",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "AnotherExample",
             "request": "launch",
             "mainClass": "DSA_Maths.AnotherExample",
