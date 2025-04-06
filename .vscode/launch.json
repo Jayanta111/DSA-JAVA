@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnotherExample",
+            "request": "launch",
+            "mainClass": "DSA_Maths.AnotherExample",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "DSA_Maths.prime",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "DSA_Maths.DSA_Maths.DSA_Maths.prime",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "LeetCode832",
             "request": "launch",
             "mainClass": "Bitwise.LeetCode832",
