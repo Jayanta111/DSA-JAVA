@@ -2,7 +2,7 @@ package DSA_Maths;
 //Using Binary Search 
 public class SqureRoot {
     public static void main(String[] args) {
-        int n=46;
+        int n=40;
         int p=3;
 System.out.println(SqureRoot(n,p));
     }
