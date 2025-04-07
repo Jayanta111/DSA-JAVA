@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "sumOfDigit",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "Factoril",
             "request": "launch",
             "mainClass": "Factoril",
