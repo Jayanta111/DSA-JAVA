@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factoril",
+            "request": "launch",
+            "mainClass": "Factoril",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "easy",
+            "request": "launch",
+            "mainClass": "easy",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "factor",
+            "request": "launch",
+            "mainClass": "DSA_Maths.factor",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "NewTonSqrt",
+            "request": "launch",
+            "mainClass": "DSA_Maths.NewTonSqrt",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "SqureRoot",
             "request": "launch",
             "mainClass": "DSA_Maths.SqureRoot",
