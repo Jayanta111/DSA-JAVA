@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "produDigit",
+            "request": "launch",
+            "mainClass": "produDigit",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "sumOfDigit",
             "request": "launch",
             "mainClass": "sumOfDigit",
