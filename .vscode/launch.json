@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayIsSortedOrNot",
+            "request": "launch",
+            "mainClass": "ArrayIsSortedOrNot",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "CountZeros",
             "request": "launch",
             "mainClass": "CountZeros",
