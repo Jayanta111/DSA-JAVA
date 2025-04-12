@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "Array.ArrayListExample",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "runtime",
             "request": "launch",
             "mainClass": "runtime",
