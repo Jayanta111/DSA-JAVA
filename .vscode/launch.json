@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListWithoutArg",
+            "request": "launch",
+            "mainClass": "Array.ArrayListWithoutArg",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "ArrayListExample",
             "request": "launch",
             "mainClass": "Array.ArrayListExample",
