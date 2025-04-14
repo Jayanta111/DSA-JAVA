@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "ArrayListWithoutArg",
             "request": "launch",
             "mainClass": "Array.ArrayListWithoutArg",
