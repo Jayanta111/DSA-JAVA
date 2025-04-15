@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subSeq",
+            "request": "launch",
+            "mainClass": "subset.subSeq",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "subset.subset",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "subset",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "Stream",
             "request": "launch",
             "mainClass": "Stream",
