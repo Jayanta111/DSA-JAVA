@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rotated",
+            "request": "launch",
+            "mainClass": "Binary.Rotated",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "ASCII",
             "request": "launch",
             "mainClass": "subset.ASCII",
