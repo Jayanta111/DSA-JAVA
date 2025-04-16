@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ASCII",
+            "request": "launch",
+            "mainClass": "subset.ASCII",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "subSeq",
             "request": "launch",
             "mainClass": "subset.subSeq",
