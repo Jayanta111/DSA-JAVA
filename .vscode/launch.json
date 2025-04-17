@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "trianglePattern",
+            "request": "launch",
+            "mainClass": "trianglePattern",
+            "projectName": "DSA-JAVA_8be8e090"
+        },
+        {
+            "type": "java",
             "name": "Rotated",
             "request": "launch",
             "mainClass": "Binary.Rotated",
